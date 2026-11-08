@@ -1,4 +1,4 @@
-# Aria Indoor Navigation
+# Project Aria Indoor Navigation
 
 **Hands-free indoor navigation for blind and low-vision users, using Meta Project Aria smart glasses, on-device object detection and voice control.**
 

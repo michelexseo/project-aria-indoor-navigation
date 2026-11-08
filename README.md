@@ -4,7 +4,7 @@
 
 *MSc thesis, Politecnico di Torino: [Bridging the Accessibility Gap: Leveraging Egocentric Vision for Indoor Navigation](https://webthesis.biblio.polito.it/39925/)*
 
-[![Demo: click to watch with sound](docs/demo.gif)](https://youtu.be/VixqrmUZ1rQ)
+[![Demo: click to watch with sound](docs/demo_thesis-gif.gif)](https://youtu.be/VixqrmUZ1rQ)
 <p align="center"><i>🔊 Click to watch the full demo with audio: the app guides the wearer to a room by voice.</i></p>
 
 ---
